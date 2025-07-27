@@ -13,12 +13,12 @@
 
 ## 📖 **About Me**  
 
-- 🧠 I'm a 2nd-year Informatics student at Telkom University Surabaya  
-- 📊 Passionate about all things data — Data Science, Analytics, Engineering, Etc
-- 💻 I love exploring and building with Python, TensorFlow, Etc
-- 🧰 I explore and analyze data with Pandas, NumPy, and Scikit-learn, then bring it to life using Streamlit
-- 🎓 I also assist in lab sessions as a Practicum Assistant for around 100+ Student
-- 🔍 Currently learning more about model deployment and data pipeline automation  
+- I'm a 2nd-year Informatics student at Telkom University Surabaya  
+- Passionate about all things data — Data Science, Analytics, Engineering, Etc
+- I love exploring and building with Python, TensorFlow, Etc
+- I explore and analyze data with Pandas, NumPy, and Scikit-learn, then bring it to life using Streamlit
+- I also assist in lab sessions as a Practicum Assistant for around 100+ Student
+- Currently learning more about model deployment and data pipeline automation  
 
 ## 💼 Tech Stack
 - **Languages**: Python, C, MySQL, SQL, Java (basic)

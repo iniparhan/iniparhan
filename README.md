@@ -19,7 +19,6 @@
 - I build end-to-end data solutions from data processing to predictive modeling and automation
 - I work with Python and SQL for data analysis, machine learning, and pipeline development
 - I analyze data using Pandas, NumPy, and Scikit-learn, and present results using Streamlit and BI tools
-- I assist in lab sessions as a Teaching/Practicum Assistant supporting 100+ students
 - Currently learning model deployment, Airflow orchestration, Docker, and CI/CD for production-ready systems
 
 ## Tech Stack

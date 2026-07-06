@@ -25,11 +25,19 @@
 
 ## Tech Stack
 
-- **Languages**: Python, SQL, C, C++, Java (basic)
-- **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Streamlit
-- **Data Engineering & Workflow**: Airflow, Docker, ETL pipelines, CI/CD fundamentals
-- **Data Visualization**: Power BI, Looker, Matplotlib, Streamlit
-- **Data Workflow**: Jupyter Notebook, Google Colab, Excel, DBMS (MySQL, SQLite)
+- **Programming & Libraries** : Python, SQL, JavaScript, PHP, Dart, Swift, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit
+- **Frontend Development** : React.js, Next.js, Vite, HTML, CSS
+- **Backend Development** : Laravel, FastAPI, REST API Development
+- **Mobile Development** : Flutter, iOS Development, Swift, SwiftUI, UIKit
+- **iOS Development** : Swift, SwiftUI, UIKit, Xcode, iOS SDK, REST API Integration
+- **Database & Data Engineering** : PostgreSQL, Supabase, Apache Airflow, ETL Pipelines, Data Pipeline Development
+- **Data Visualization & Business Intelligence** : Power BI, Looker, Matplotlib, Seaborn, Streamlit
+- **Machine Learning & AI** : Machine Learning, Generative AI, LLM Integration
+- **DevOps & Version Control** : Git, GitHub, CI/CD Fundamentals
+- **Tools** : Microsoft Excel, Word, PowerPoint, Figma, Canva, Xcode
+- **Core Skills** : Data Analysis, Data Engineering, Machine Learning, Full Stack Web Development, Mobile App Development, iOS App Development, Dashboard Development, API Development, Technical Report Writing
+
+
 
 <!-- ## 📈 GitHub Stats -->
 <!-- ![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iniparhan&show_icons=true&theme=github_dark) -->
@@ -39,7 +47,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ahmadfarhanqf)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:farhanhmd11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github)](https://github.com/iniparhan)
 
 
 <!--

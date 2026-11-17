@@ -15,6 +15,7 @@
 
 - I'm a 3rd-year Informatics student at Telkom University Surabaya
 - Currently learning iOS Native development with Swift at Apple Developer Academy
+
 <!--
 - Focused on Applied AI, Data Analytics, Data Science, and Data Engineering
 - I build end-to-end data solutions from data processing to predictive modeling and automation
@@ -23,6 +24,7 @@
 - Currently learning model deployment, Airflow orchestration, Docker, and CI/CD for production-ready systems 
 -->
 
+<!--
 ## Tech Stack
 
 - **Programming & Libraries** : Python, SQL, JavaScript, PHP, Dart, Swift, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit
@@ -36,7 +38,7 @@
 - **DevOps & Version Control** : Git, GitHub, CI/CD Fundamentals
 - **Tools** : Microsoft Excel, Word, PowerPoint, Figma, Canva, Xcode
 - **Core Skills** : Data Analysis, Data Engineering, Machine Learning, Full Stack Web Development, Mobile App Development, iOS App Development, Dashboard Development, API Development, Technical Report Writing
-
+-->
 
 
 <!-- ## 📈 GitHub Stats -->
